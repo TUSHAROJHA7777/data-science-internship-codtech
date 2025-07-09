@@ -1,0 +1,11 @@
+Match_ID,Date,Team1,Team2,Venue,Team1_Runs,Team1_Wickets,Team2_Runs,Team2_Wickets,Winner,Player_of_the_Match,Match_Type
+1,2023-04-12,India,Australia,Mumbai,287,6,283,10,India,Virat Kohli,ODI
+2,2023-05-20,England,New Zealand,London,310,7,305,9,England,Ben Stokes,ODI
+3,2023-06-18,Pakistan,South Africa,Lahore,256,9,260,8,South Africa,Quinton de Kock,T20
+4,2023-07-05,West Indies,Sri Lanka,Bridgetown,198,10,199,4,Sri Lanka,Kusal Mendis,T20
+5,2023-08-01,India,Bangladesh,Delhi,325,4,301,10,India,Shubman Gill,ODI
+6,2023-09-10,Australia,England,Sydney,289,8,291,6,England,Jos Buttler,ODI
+7,2023-10-15,New Zealand,India,Auckland,280,10,283,5,India,Rohit Sharma,ODI
+8,2023-11-22,South Africa,Australia,Cape Town,272,9,270,10,South Africa,Kagiso Rabada,T20
+9,2023-12-30,Bangladesh,Pakistan,Mirpur,220,10,221,6,Pakistan,Babar Azam,ODI
+10,2024-01-15,England,Sri Lanka,Manchester,245,7,246,8,Sri Lanka,Charith Asalanka,T20
